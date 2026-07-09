@@ -73,4 +73,4 @@
 </p>
 
 ---
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff6b6b&section=footer"/>
