@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/theabhinav">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -64,12 +64,12 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR_USERNAME">
+<a href="https://www.instagram.com/abhinav610_t">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Let's+Build+Something+Awesome+Together!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2500&pause=500&color=FF6B6B&center=true&vCenter=true&width=900&lines=Let's+Build+Something+Awesome+Together!"/>
 </p>
 
 ---
