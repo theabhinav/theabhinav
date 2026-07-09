@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**theabhinav/theabhinav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Abhinav Tiwari
 
-Here are some ideas to get you started:
+### 🚀 Full Stack Developer | Open Source Enthusiast | B.Tech CSE @ IIIT Bhagalpur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Open+Source+Contributor;Competitive+Programmer;Always+Learning+New+Things" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE @ IIIT Bhagalpur
+- 🌱 Currently learning **MERN Stack**
+- 💻 Love building Full Stack Applications
+- 🚀 Open Source Contributor
+- 🧠 Solving DSA in C++
+- 📫 Reach me: **tiwari2007abhinav@gmail.com**
+
+---
