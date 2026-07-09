@@ -9,6 +9,9 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+</p>
 
 ## 👨‍💻 About Me
 
@@ -47,3 +50,23 @@
 </p>
 
 ---
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+<a href="mailto:tiwari2007abhinav@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+<a href="https://github.com/theabhinav"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+</p>
+## 🎯 2026 Goals
+
+- 🚀 Become a Full Stack Developer
+- 🌟 Contribute to Open Source
+- 💼 Crack a Software Internship
+- 🧠 Master DSA & System Design
+- 🤖 Explore AI & Machine Learning
+- ## 🚀 Featured Projects
+
+- 🍔 Trunket - Smart Campus Ordering Platform
+- 📢 Real-Time Notice Board
+- 🤖 AI-Assisted Decision Making Website
+- 💼 Personal Portfolio
