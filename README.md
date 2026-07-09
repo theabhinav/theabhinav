@@ -41,7 +41,7 @@
 
 </p>
 
----
+
 ---
 
 <h2 align="left">🤝 Connect With Me</h2>
@@ -77,3 +77,47 @@
 </p>
 
 ---
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/theabhinav/Trunket">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=theabhinav&repo=Trunket&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/theabhinav/NoticeBoard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=theabhinav&repo=NoticeBoard&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/theabhinav/Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=theabhinav&repo=Portfolio&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/theabhinav/AI-Research">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=theabhinav&repo=AI-Research&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+Coming Soon 🚀
+</p>
+
+---
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=theabhinav&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+Happy Coding 🚀
+
+</p>
