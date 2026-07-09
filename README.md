@@ -31,18 +31,9 @@
 </p>
 
 ---
+
+
 ## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=theabhinav&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabhinav&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -51,23 +42,38 @@
 </p>
 
 ---
-<h3 align="center">🌐 Connect with Me</h3>
+---
+
+<h2 align="left">🤝 Connect With Me</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-<a href="mailto:tiwari2007abhinav@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-<a href="https://github.com/theabhinav"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70">
 </p>
-## 🎯 2026 Goals
 
-- 🚀 Become a Full Stack Developer
-- 🌟 Contribute to Open Source
-- 💼 Crack a Software Internship
-- 🧠 Master DSA & System Design
-- 🤖 Explore AI & Machine Learning
-- ## 🚀 Featured Projects
+<p align="center">
+<b>I'd love to connect, collaborate or just chat tech 🚀</b><br>
+<b>Let's grow together!</b>
+</p>
 
-- 🍔 Trunket - Smart Campus Ordering Platform
-- 📢 Real-Time Notice Board
-- 🤖 AI-Assisted Decision Making Website
-- 💼 Personal Portfolio
+<p align="center">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tiwari2007abhinav@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theabhinav&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
