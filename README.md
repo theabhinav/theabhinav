@@ -68,56 +68,9 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
-
----
-## 📈 Contribution Graph
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theabhinav&theme=tokyo-night&hide_border=true"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Let's+Build+Something+Awesome+Together!"/>
 </p>
 
 ---
-## 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/theabhinav/Trunket">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=theabhinav&repo=Trunket&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/theabhinav/NoticeBoard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=theabhinav&repo=NoticeBoard&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/theabhinav/Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=theabhinav&repo=Portfolio&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/theabhinav/AI-Research">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=theabhinav&repo=AI-Research&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
----
-## 🐍 Contribution Snake
-
-<p align="center">
-Coming Soon 🚀
-</p>
-
----
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=theabhinav&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-<p align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-Happy Coding 🚀
-
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
